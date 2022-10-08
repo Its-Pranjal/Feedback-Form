@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Its-Pranjal/Feedback-Form/static/css/main.7d7ab1fc.css",
+    "main.js": "/Its-Pranjal/Feedback-Form/static/js/main.818f2a2a.js",
+    "static/js/787.79f2f1a3.chunk.js": "/Its-Pranjal/Feedback-Form/static/js/787.79f2f1a3.chunk.js",
+    "index.html": "/Its-Pranjal/Feedback-Form/index.html",
+    "main.7d7ab1fc.css.map": "/Its-Pranjal/Feedback-Form/static/css/main.7d7ab1fc.css.map",
+    "main.818f2a2a.js.map": "/Its-Pranjal/Feedback-Form/static/js/main.818f2a2a.js.map",
+    "787.79f2f1a3.chunk.js.map": "/Its-Pranjal/Feedback-Form/static/js/787.79f2f1a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d7ab1fc.css",
+    "static/js/main.818f2a2a.js"
+  ]
+}
