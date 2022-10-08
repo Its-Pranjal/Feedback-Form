@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+  
+  }
+  .container{
+    width: 100%;
+    height: 100vh;
+    background: darkcyan;
+    /* background-image: url("images/BG.jpg"); */
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+  }
+  form{
+    background: white;
+    display: flex;
+    flex-direction: column;
+    padding: 2vh 4vh;
+    width: 80%;
+    height: 120vh;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    /* margin-right: 220px; */
+    max-width: 650px;
+    border-radius: 10px;
+  
+  }
+  form h3{
+    color: crimson;
+    font-size: 60px;
+    font-weight: 1000;
+    margin-bottom: 15px;
+  
+  }
+  form input, textarea{
+    border: 0;
+    margin: 10px 0;
+    padding: 10px;
+    outline: 0;
+    background: white;
+    
+    color: black;
+    font-size: 20px;
+    font-weight: 100;
+     
+  }
+  form fieldset{
+    border: 0;
+    margin: 10px 0;
+    padding: 20px;
+    outline: 0;
+    background: white;
+    color: black;
+    
+    font-weight: 100;
+    font-size: 20px;
+  }
+  
+  
+  form button{
+    padding: 15px;
+    background: crimson;
+    color: black;
+    font-size: 18px;
+    border: 10;
+    outline: 10;
+    outline-color: white;
+    cursor: pointer;
+    width: 180px;
+    
+     
+    border-radius: 30px;
+    margin-left: 200px;
+    margin-top: 20px;
+  
+  }
+  #msg{
+  color: #61b752;
+  font-size: 22px;
+   margin-left: -400px; 
+    margin-right: 300px;
+    margin-top: 1000px;
+  }
